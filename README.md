@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joeyknox0814/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joeyknox0814/azure-network-protocols)
-  -
+  
+  -<b>Qualys (Vulnerability Management)</b>
 <h2>🤳Connect with me:</h2>
 
 
